@@ -1,0 +1,11 @@
+{
+    "name": "Starter-project",
+    "version": "0.0.1",
+    "devDependencies": {
+        "grunt": "1.4.1",
+        "grunt-contrib-jshint": "^3.0.0",
+        "grunt-contrib-sass": "^2.0.0",
+        "grunt-contrib-uglify": "5.0.1",
+        "grunt-contrib-watch": "^1.1.0"
+    }
+}
